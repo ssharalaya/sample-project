@@ -8,7 +8,7 @@ PROJECT STATEMENT
 __________________
 
 
-* To write a small API that can be used to look up information about merchants in a directory that is stored as a
+* To write a small API that can be used to look up information about 'merchants' in a directory that is stored as a
   csv file. The comma separated values are:
 
 [merchant name],[merchant ID],[phone number],[merchant contact]
