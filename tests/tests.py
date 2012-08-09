@@ -19,7 +19,7 @@ This is a module to maintain simple unit test cases keeping in mind the operatio
 run with the nose module
 """
 
-import logging
+import xxxlogging
 import pdb
 import os
 import nose
