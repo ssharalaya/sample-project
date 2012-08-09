@@ -3,8 +3,10 @@ sample-project
 
 * This is a sample project that I started recently. Just wanted to play around a bit and practice some Python :)
 
+
 PROJECT STATEMENT
 __________________
+
 
 * To write a small API that can be used to look up information about merchants in a directory that is stored as a
   csv file. The comma separated values are:
@@ -32,6 +34,7 @@ Panera Bread,2005,211-211-2333,David Beckham
   * Add the information of a merchant
   * Update the information of a merchant
   * Persist changes back to the csv file
+
 
 
 HOW TO RUN THE SCRIPT (API)
