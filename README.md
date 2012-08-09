@@ -1,17 +1,17 @@
 sample-project
 ==============
 
-This is a sample project that I started recently. Just wanted to play around a bit and practice some Python :)
+* This is a sample project that I started recently. Just wanted to play around a bit and practice some Python :)
 
 PROJECT STATEMENT
 __________________
 
-To write a small API that can be used to look up information about merchants in a directory that is stored as a
-csv file. The comma separated values are:
+* To write a small API that can be used to look up information about merchants in a directory that is stored as a
+  csv file. The comma separated values are:
 
 [merchant name],[merchant ID],[phone number],[merchant contact]
 
-An example CSV file (in a simple directory) would look like this:
+* An example CSV file (in a simple directory) would look like this:
 
 Purple Cow,2001,206-339-8960,Nico Robin
 
@@ -24,14 +24,14 @@ Curry Pot,1004,+44 232 3222 3322,Susan Vettel
 Panera Bread,2005,211-211-2333,David Beckham
 
 
-Panera Bread (second line) and Panera Bread (last line) are not the same merchants.
+* Panera Bread (second line) and Panera Bread (last line) are not the same merchants.
 
-The aim is to write a library that will enable the following operations:
-* Do a look up of all of any merchant's information by name.
-* Do a look up of all of any merchant's information by ID.
-* Add the information of a merchant
-* Update the information of a merchant
-* Persist changes back to the csv file
+* The aim is to write a library that will enable the following operations:
+  * Do a look up of all of any merchant's information by name.
+  * Do a look up of all of any merchant's information by ID.
+  * Add the information of a merchant
+  * Update the information of a merchant
+  * Persist changes back to the csv file
 
 
 HOW TO RUN THE SCRIPT (API)
