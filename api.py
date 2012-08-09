@@ -264,5 +264,5 @@ if __name__ == '__main__':
     CsvOperations(directory_path= 'dump', merch_name='Panera Bread') # both Panera Bread  listings are displayed
     CsvOperations('dump', merch_id='1004')
     CsvOperations('dump', upsert_merch='Paneraaaaa Bread,1005,211-211-2333,Steve Wozniak')
-    CsvOperations('dump', upsert_merch='Java Coffee,112308,211-211-2333,Steve234234 Wozniak', persist=True)
-    CsvOperations('dump', upsert_merch='Java Coffee,112i2308,211-211-2333,Richard5555 Wozniak', persist=True)
+    CsvOperations('dump', upsert_merch='Java Coffee,112308,211-211-2333,Billy Wozniak', persist=True)
+    CsvOperations('dump', upsert_merch='Java Coffee,112i2308,211-211-2333,Ricardo Wozniak', persist=True)
