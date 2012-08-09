@@ -1,7 +1,7 @@
 sample-project
 ==============
 
-This is a sample project that I started upon recently. Just wanted to play around a bit and practice some Python :)
+This is a sample project that I started recently. Just wanted to play around a bit and practice some Python :)
 
 PROJECT STATEMENT
 __________________
@@ -18,6 +18,7 @@ Panera Bread,1002,(555)232-3422,Mario Andretti
 Panchos Tacos,2003,343 222 3322 ext. 342,Michael Johnson
 Curry Pot,1004,+44 232 3222 3322,Susan Vettel
 Panera Bread,2005,211-211-2333,David Beckham
+
 
 Panera Bread (second line) and Panera Bread (last line) are not the same merchants.
 
