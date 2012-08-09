@@ -9,14 +9,18 @@ __________________
 To write a small API that can be used to look up information about merchants in a directory that is stored as a
 csv file. The comma separated values are:
 
-<merchant name>,<merchant ID>,<phone number>,<merchant contact>
+[merchant name],[merchant ID],[phone number],[merchant contact]
 
 An example CSV file (in a simple directory) would look like this:
 
 Purple Cow,2001,206-339-8960,Nico Robin
+
 Panera Bread,1002,(555)232-3422,Mario Andretti
+
 Panchos Tacos,2003,343 222 3322 ext. 342,Michael Johnson
+
 Curry Pot,1004,+44 232 3222 3322,Susan Vettel
+
 Panera Bread,2005,211-211-2333,David Beckham
 
 
